@@ -1,0 +1,28 @@
+11309
+263 total instructions
+43x
+
+13939
+263
+53x
+
+15517
+263
+59x
+
+17621
+263
+67x
+
+19199
+263
+73x
+
+20777
+263
+79x
+
+multiply all iterations
+multiply by total instructions
+
+all iterations multiplied  = 51954251329 * 263 = answer
